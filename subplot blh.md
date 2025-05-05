@@ -1,4 +1,4 @@
-```python
+
 import netCDF4 as nc
 import numpy as np
 import matplotlib.pyplot as plt
@@ -160,7 +160,7 @@ plt.show()
 
 
     
-![png](output_0_0.png)
+
     
 
 
